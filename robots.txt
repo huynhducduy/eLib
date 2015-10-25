@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /lib/
+Disallow: /process/
+Disallow: /tim-kiem/
+Allow: /
+Sitemap: http://thuvienlqd.com/sitemap.xml
